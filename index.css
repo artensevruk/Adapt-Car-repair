@@ -1,0 +1,399 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Rowdies&display=swap");
+body {
+  font-family: Raleway;
+  margin: 0;
+  color: aliceblue;
+  background-color: rgb(53, 53, 53);
+  min-width: 1125px;
+}
+.container {
+  max-width: 1457px;
+  max-height: 717px;
+}
+a {
+  font-size: 19;
+  color: aliceblue;
+  text-decoration: none;
+}
+.socialnetwork1 {
+  transition: 1s;
+}
+.socialnetwork1:hover {
+  transform: scale(1.2);
+}
+a:hover {
+  font-size: 22px;
+  color: red;
+}
+.Discriptor1 {
+  letter-spacing: 5px;
+  padding: 10px;
+  color: red;
+  margin: 0px;
+}
+
+.AUDI {
+  color: red;
+}
+
+.Car1 {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: 1;
+}
+
+.Discriptor {
+  display: flex;
+  font-family: Raleway;
+  position: absolute;
+  font-size: 20px;
+  z-index: 4;
+  left: 100px;
+  background-color: rgba(0, 125, 215, 0);
+  padding: 20px;
+  height: 60px;
+}
+.Artem {
+  text-align: center;
+}
+.Attic {
+  width: 1457px;
+  height: 717px;
+  background-position: center;
+  background-image: url(image/Fon3.jpg);
+  text-align: center;
+}
+.Battom{
+  padding : 25px;
+}
+.Battom1{
+  padding : 25px;
+}
+.Battom2{
+  padding : 25px;
+}
+.wall {
+  position: relative;
+  top: -67px;
+  z-index: 3;
+}
+.YourCar{
+  padding-bottom: 300px;
+  padding-top: 100px;
+  background-image: url(image/Redpng.png);
+}
+.Text {
+  font-family: Rowdies;
+  text-shadow: 3px 3px 3px rgb(238, 7, 7);
+  opacity: 70%;
+  font-size: 60px;
+  z-index: 1;
+  position: absolute;
+  bottom: 940px;
+  left: 235px;
+  
+}
+.service{
+  /* background: linear-gradient(45deg , #ffbc00 , #ff0058);
+  filter:blur(20px); */
+  border: 3px solid;
+  padding: 20px;
+  border-radius: 10px;
+}
+.price{
+  border: 3px solid;
+  padding: 20px;
+  border-radius: 10px;
+}
+.SERVICES{
+  border: 3px solid;
+  padding: 20px;
+  border-radius: 10px;
+}
+.Car {
+  z-index: 0;
+}
+a { 
+  font-size: 20px;
+  font-family: Rowdies;
+  text-shadow: 3px 3px 3px rgb(238, 7, 7);
+}
+.Text3 {
+  font-family: Raleway;
+  margin: 30px;
+  font-size: 24px;
+  position: relative;
+  text-align: center;
+}
+.socialnetwork {
+  position: relative;
+  bottom: -610px;
+  right: 600px;
+  z-index: 4;
+}
+
+.Text4 {
+  font-family: Raleway;
+  margin: 30px;
+  font-size: 24px;
+}
+span {
+  color: red;
+}
+.socialnetwork1 {
+  margin: 19px;
+}
+.Obolohca {
+  display: flex;
+  padding: 100px;
+}
+
+.Audi2 {
+  position: relative;
+  bottom: -15px;
+  padding-left: 115px;
+  margin: 23px;
+  display: flex;
+}
+
+.Audi3 {
+  transition: 2s;
+  margin: 40px;
+}
+.Audi3:hover {
+  transform: scale(1.3);
+}
+.Audi4 {
+  transition: 2s;
+  margin: 40px;
+}
+.Audi4:hover {
+  transform: scale(1.3);
+}
+.Audi5 {
+  transition: 2s;
+  margin: 40px;
+}
+.Audi5:hover {
+  transform: scale(1.3);
+}
+.Years {
+  font-family: Rowdies;
+  padding-left: 330px;
+  margin: 10px;
+  display: flex;
+}
+.Logo {
+  font-family: Rowdies;
+}
+.Years1 {
+  display: flex;
+  font-size: 17px;
+}
+.Years2 {
+  font-size: 17px;
+  padding-left: 200px;
+  display: flex;
+}
+.Big {
+  letter-spacing: 15px;
+  font-size: 80px;
+}
+.Text2 {
+  background-color: black;
+  position: absolute;
+  top: 700px;
+  z-index: 3;
+}
+.wall2 {
+  position: relative;
+  bottom: -65px;
+}
+.basement {
+  width: 1457px;
+  height: 300px;
+  background-image: url(image/blue.jpg);
+}
+.basement_Text {
+  font-size: 24px;
+  letter-spacing: 10px;
+  position: relative;
+  bottom: -130px;
+  padding-left: 100px;
+}
+.basement_Text2 {
+  font-family: Rowdies;
+  font-size: 14px;
+  position: relative;
+  bottom: -150px;
+  padding-left: 100px;
+  color: red;
+}
+.basement_Text3 {
+  font-family: Rowdies;
+  font-size: 16px;
+  position: relative;
+  bottom: -23px;
+  padding-left: 500px;
+}
+.basement_Text4 {
+  font-family: Rowdies;
+  font-size: 14px;
+  position: relative;
+  bottom: -40px;
+  padding-left: 500px;
+}
+.basement_Text5 {
+  font-family: Rowdies;
+  font-size: 16px;
+  position: relative;
+  bottom: 98px;
+  padding-left: 789px;
+  letter-spacing: 5px;
+}
+.basement_Text6 {
+  letter-spacing: 2px;
+  font-family: Rowdies;
+  font-size: 15px;
+  position: relative;
+  bottom: 196px;
+  padding-left: 1110px;
+}
+.basement_Text7 {
+  font-family: Rowdies;
+  font-size: 15px;
+  position: relative;
+  bottom: 196px;
+  padding-left: 1110px;
+}
+
+.basement_Text8 {
+  font-family: Rowdies;
+  font-size: 15px;
+  position: relative;
+  bottom: 220px;
+  padding-left: 1110px;
+}
+
+@media (max-width: 1170px) {
+  .Years {
+    padding-left: 200px;
+  }
+  .Text {
+    font-size: 69px;
+    opacity: 60%;
+    position: absolute;
+    bottom: 2110px;
+
+  }
+  .Text3 {
+    font-size: 50px;
+  }
+  .Text4 {
+    font-size: 45px;
+  }
+  
+  .Years1 {
+    font-size: 25px;
+  }
+  .Years2 {
+    font-size: 25px;
+  }
+  .Big {
+    font-size: 120px;
+  }
+  .Discriptor {
+    font-size: 20px;
+    display: flex;
+  }
+  .SERVICES{
+    white-space: nowrap;
+    padding-left: 20px !important;
+   
+  }
+  .price{
+    padding-left: 20px !important;
+  }
+  .service{
+    padding-left: 20px !important;
+    
+  }
+  a {
+    font-size: 30px;
+    margin: 5px;
+   
+  }
+  .basement_Text {
+    font-size: 28px;
+    bottom: -90px;
+    right: 50px;
+  }
+  .basement_Text2 {
+    font-size: 16px;
+    bottom: -115px;
+    right: 45px;
+  }
+  .basement_Text3 {
+    font-size: 20px;
+    bottom: 30px;
+    right: 90px;
+  }
+  .basement_Text4 {
+    font-size: 20px;
+    bottom: 23px;
+    right: 70px;
+  }
+  .basement_Text5 {
+    bottom: 190px;
+    font-size: 20px;
+    right: 33px;
+  }
+  .basement_Text6 {
+    
+    bottom: 310px;
+    font-size: 20px;
+  }
+  .basement_Text7 {
+    bottom: 310px;
+   
+    font-size: 20px;
+  }
+  .basement_Text8 {
+    bottom: 330px;
+    font-size: 20px;
+  }
+  .Insta{
+    width: 50px !important;
+  }
+  .tg{
+    padding-left: 15px ;
+    width: 50px !important;
+
+  }
+  .Audi2{
+    display:table ;
+    padding-left: 470px;
+  }
+  .Audi3{
+   margin-bottom:200px ;
+  }
+  .Audi4{
+    margin-bottom:200px ;
+   }
+   .Audi5{
+    margin-bottom:100px ;
+   }
+  .Cars1{
+    width: 450px !important;
+  }
+  .Cars2{
+    width: 450px !important;
+    
+  }
+  .Cars3{
+    width: 450px !important;
+  }
+
+}
